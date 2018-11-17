@@ -1,0 +1,1 @@
+rename DSlink.exe as LEASUR.exe and place resulting file in folder "D:\MD-SAT\Bin\DSmodelS"
